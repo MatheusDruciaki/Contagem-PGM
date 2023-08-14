@@ -1,0 +1,9 @@
+body{
+    background-color: darkgoldenrod;
+    text-align: center;
+    font-style: italic ;
+    font-size: 25px;
+    
+    text-shadow:   3px 3px 3px grey;
+}
+
